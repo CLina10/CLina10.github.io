@@ -1,42 +1,15 @@
-# About me
+## About me
 I'm a 20 years old gamedesign/programming student who enjoys to play and create different games. My complete life resolve around games, from playing to creating and sometimes writing.
+
 I hope that people enjoy my work and that I can work with a great team to entertain more hardcore gamer and occasion gamer with my projects.
+
 Currently I'm studying 3D-Game Design at the GPB College in Berlin, Germany. My specialization lies in gamedesign and programming, where I enjoy really to create new stories and technics.
 
-## Welcome to GitHub Pages
+## Projects
 
-You can use the [editor on GitHub](https://github.com/CLina10/CLina10.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a list of my projects.
+Every Project from me can be played only and you can go to the github, just click on the links.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CLina10/CLina10.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Router
+This is a prototype for my first twin-stick-shooter. I wanted to show the conflict between electronic and manuel media.
+![Prototype Image](https://ibb.co/JBBRm2h)
