@@ -3,7 +3,7 @@ I'm a 20 years old gamedesign/programming student who enjoys to play and create 
 
 I hope that people enjoy my work and that I can work with a great team to entertain more hardcore gamer and occasion gamer with my projects.
 
-Currently I'm studying 3D-Game Design at the GPB College in Berlin, Germany. My specialization lies in gamedesign and programming, where I enjoy really to create new stories and technics.
+Currently I'm studying 3D-Game Design at the GPB College in Berlin, Germany. My specialization lies in gamedesign and programming, where I enjoy really to create new stories and games.
 
 ## Projects
 This is a list of my projects.
