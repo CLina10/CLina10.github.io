@@ -29,6 +29,6 @@ Just a little something which I made for fun. Please remember that this is just 
 <a name="Contact"></a>
 <li><a href="https://github.com/CLina10">Github</a></li>
 <li><a href="https://www.linkedin.com/in/celina-wuschko-10aa3a162/">Linkedin</a></li>
-Email:celina.wuschko@gmail.com  
-Phone:+49 160 8304312  
-Adress:Landsberger Allee 99c 10407 Berlin
+:email:Email:celina.wuschko@gmail.com  
+:telephone_receiver:Phone:+49 160 8304312  
+:house_with_garden:Adress:Landsberger Allee 99c 10407 Berlin
