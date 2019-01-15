@@ -14,21 +14,21 @@ This is a list of my projects.
 Every Project from me can be played online and you can go to the github project, just click on the links.
 
 ### Router
-This is a prototype for my first twin-stick-shooter. I wanted to show the conflict between electronic and manuel media. Enjoy!
+This is a prototype for my first twin-stick-shooter. I wanted to show the conflict between electronic and manuel media. Enjoy!  
 <li><a href="https://github.com/CLina10/Router">Project</a></li>  
 
 ### Cam
-Cam is a little prototype-game which I have made in a course of my programming classes. It was my first try on a game and I hope you have fun playing it.
+Cam is a little prototype-game which I have made in a course of my programming classes. It was my first try on a game and I hope you have fun playing it.  
 <li><a href="https://github.com/CLina10/Cam">Project</a></li>  
 
 ### Flipper
-Just a little something which I made for fun. Please remember that this is just a prototype.
+Just a little something which I made for fun. Please remember that this is just a prototype.  
 <li><a href="https://github.com/CLina10/Flipper">Project</a></li>  
 
 ## Contact
 <a name="Contact"></a>
 <li><a href="https://github.com/CLina10">Github</a></li>
 <li><a href="https://www.linkedin.com/in/celina-wuschko-10aa3a162/">Linkedin</a></li>
-:email: Email:celina.wuschko@gmail.com  
-:telephone_receiver: Phone:+49 160 8304312  
-:house_with_garden: Adress:Landsberger Allee 99c 10407 Berlin
+Email:celina.wuschko@gmail.com  
+Phone:+49 160 8304312  
+Adress:Landsberger Allee 99c 10407 Berlin
