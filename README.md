@@ -1,5 +1,5 @@
 <head>
-Celina Wuschko, look at the bright side
+
 </head>
 
 ### [Projects](#Projects)
