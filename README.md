@@ -33,9 +33,10 @@ This was my first teamproject which was made for a schoolcourse. It was a lot of
 ## Contact
 <a name="Contact"></a>
 You would like to work or chat with me about games, projects or just for fun?  
-Don't hesitate to contact.  
-**Email:celina.wuschko@gmail.com**  
-**Phone:+49 160 8304312**  
-**Adress:Landsberger Allee 99c 10407 Berlin**  
+Don't hesitate to contact.
+
+**email:celina.wuschko@gmail.com**  
+**phone:+49 160 8304312**  
+**adress:Landsberger Allee 99c 10407 Berlin**  
 <li><a href="https://github.com/CLina10">Github</a></li>
 <li><a href="https://www.linkedin.com/in/celina-wuschko-10aa3a162/">Linkedin</a></li>
