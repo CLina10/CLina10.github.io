@@ -1,7 +1,6 @@
-### [About me](#About me)
 ### [Projects](#Projects)
 ### [Contact](#Contact)
-<a name="About me"></a>
+
 ## About me
 I'm a 20 years old gamedesign/programming student who enjoys to play and create different games. My complete life resolve around games, from playing to creating and also writing.  
 I hope that people enjoy my work and that I can work with a great team to entertain hardcore gamer and occasion gamer with my projects.  
