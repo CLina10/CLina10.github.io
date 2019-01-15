@@ -9,8 +9,9 @@
 I'm a 20 years old gamedesign/programming student who enjoys to play and create different games. My complete life resolve around games, from playing to creating and also writing.  
 I hope that people enjoy my work and that I can work with a great team to entertain hardcore gamer and occasion gamer with my projects.  
 Currently I'm studying 3D-Game Design at the GPB College in Berlin, Germany. My specialization lies in gamedesign and programming, where I really enjoy to create new stories and games.
-<a name="Projects"></a>
+
 ## Projects
+<a name="Projects"></a>
 This is a list of my projects.
 Every Project from me can be played online and you can go to the github project, just click on the links.
 
@@ -29,8 +30,9 @@ Just a little something which I made for fun. Please remember that this is just 
 ### Rip the Ribs
 This was my first teamproject which was made for a schoolcourse. It was a lot of fun to create these game with great colleagues. Everything was made together and we are very proud of our result.
 <li><a href="https://github.com/RameshBettge/VR_Pirates">Project on GitHub</a></li><br/>
-<a name="Contact"></a>
+
 ## Contact
+<a name="Contact"></a>
 You would like to work or chat with me about games, projects or just for fun?  
 Don't hesitate to contact.  
 Email:celina.wuschko@gmail.com  
