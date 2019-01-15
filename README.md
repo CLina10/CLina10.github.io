@@ -1,6 +1,6 @@
-**[About](#About)**  
-**[Projects](#Projects)**  
-**[Contact](#Contact)**
+### [About](#About)  
+### [Projects](#Projects)  
+### [Contact](#Contact)
 
 ## About me
 <a name="About"></a>
