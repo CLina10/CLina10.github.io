@@ -1,3 +1,7 @@
+<head>
+<title>Hank Quinlan, Horrible Cop</title>
+</head>
+
 ### [Projects](#Projects)
 ### [Contact](#Contact)
 
