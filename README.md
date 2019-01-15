@@ -13,7 +13,6 @@ Every Project from me can be played online and you can go to the github project,
 
 ### Rip the Ribs
 <a href="https://ibb.co/ypSdxFX"><img src="https://i.ibb.co/8bcNQg0/Cover.jpg" alt="Cover" border="0"></a>
-<a href="https://ibb.co/ypSdxFX"><img src="https://i.ibb.co/ypSdxFX/Cover.jpg" alt="Cover" border="0"></a>
 This was my first teamproject which was made for a schoolcourse. It was a lot of fun to create these game with great colleagues. Everything was made together and we are very proud of our result.
 <li><a href="https://github.com/RameshBettge/VR_Pirates">Project on GitHub</a></li><br/>
 
@@ -23,13 +22,11 @@ This is a prototype for my first twin-stick-shooter. I wanted to show the confli
 
 ### Cam
 <a href="https://ibb.co/28T8Pc2"><img src="https://i.ibb.co/k3t30qn/Game.jpg" alt="Game" border="0"></a>
-<a href="https://ibb.co/28T8Pc2"><img src="https://i.ibb.co/28T8Pc2/Game.jpg" alt="Game" border="0"></a>
 Cam is a little prototype-game which I have made in a course of my programming classes. It was my first try on a game and I hope you have fun playing it.
 <li><a href="https://github.com/CLina10/Cam">Project on GitHub</a></li><br/>
 
 ### Flipper
 <a href="https://ibb.co/r5TXzQk"><img src="https://i.ibb.co/mh1P2RJ/start-Picture.jpg" alt="start-Picture" border="0"></a>
-<a href="https://ibb.co/r5TXzQk"><img src="https://i.ibb.co/r5TXzQk/start-Picture.jpg" alt="start-Picture" border="0"></a>
 Just a little something which I made for fun. Please remember that this is just a prototype.
 <li><a href="https://github.com/CLina10/Flipper">Project on GitHub</a></li><br/>
 
