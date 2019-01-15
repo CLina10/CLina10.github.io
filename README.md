@@ -14,6 +14,10 @@ I hope that people enjoy my work and that I can work with a great team to entert
 This is a list of my projects.
 Every Project from me can be played online and you can go to the github project, just click on the links.
 
+### Rip the Ribs
+This was my first teamproject which was made for a schoolcourse. It was a lot of fun to create these game with great colleagues. Everything was made together and we are very proud of our result.
+<li><a href="https://github.com/RameshBettge/VR_Pirates">Project on GitHub</a></li><br/>
+
 ### Router
 This is a prototype for my first twin-stick-shooter. I wanted to show the conflict between electronic and manuel media. Enjoy!
 <li><a href="https://github.com/CLina10/Router">Project on GitHub</a></li><br/>
@@ -25,10 +29,6 @@ Cam is a little prototype-game which I have made in a course of my programming c
 ### Flipper
 Just a little something which I made for fun. Please remember that this is just a prototype.
 <li><a href="https://github.com/CLina10/Flipper">Project on GitHub</a></li><br/>
-
-### Rip the Ribs
-This was my first teamproject which was made for a schoolcourse. It was a lot of fun to create these game with great colleagues. Everything was made together and we are very proud of our result.
-<li><a href="https://github.com/RameshBettge/VR_Pirates">Project on GitHub</a></li><br/>
 
 ## Contact
 <a name="Contact"></a>
