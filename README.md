@@ -1,6 +1,6 @@
-### [About](#About)  
-### [Projects](#Projects)  
-### [Contact](#Contact)
+### [About](#About)<br/>
+### [Projects](#Projects)<br/>
+### [Contact](#Contact)<br/>
 
 ## About me
 <a name="About"></a>
