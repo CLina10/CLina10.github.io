@@ -14,16 +14,16 @@ This is a list of my projects.
 Every Project from me can be played online and you can go to the github project, just click on the links.
 
 ### Router
-This is a prototype for my first twin-stick-shooter. I wanted to show the conflict between electronic and manuel media. Enjoy!  
-<li><a href="https://github.com/CLina10/Router">Project</a></li>  
+This is a prototype for my first twin-stick-shooter. I wanted to show the conflict between electronic and manuel media. Enjoy!
+<li><a href="https://github.com/CLina10/Router">Project</a></li><br/>
 
 ### Cam
-Cam is a little prototype-game which I have made in a course of my programming classes. It was my first try on a game and I hope you have fun playing it.  
-<li><a href="https://github.com/CLina10/Cam">Project</a></li>  
+Cam is a little prototype-game which I have made in a course of my programming classes. It was my first try on a game and I hope you have fun playing it.
+<li><a href="https://github.com/CLina10/Cam">Project</a></li><br/>
 
 ### Flipper
-Just a little something which I made for fun. Please remember that this is just a prototype.  
-<li><a href="https://github.com/CLina10/Flipper">Project</a></li>  
+Just a little something which I made for fun. Please remember that this is just a prototype.
+<li><a href="https://github.com/CLina10/Flipper">Project</a></li><br/>
 
 ## Contact
 <a name="Contact"></a>
