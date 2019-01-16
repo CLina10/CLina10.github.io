@@ -13,7 +13,7 @@ Every Project from me can be played online and you can go to the github project,
 
 ### Rip the Ribs
 <a href="https://ibb.co/ypSdxFX"><img src="https://i.ibb.co/8bcNQg0/Cover.jpg" alt="Cover" border="0"></a><br/>
-This was my first teamproject which was made for a schoolcourse. It was a lot of fun to create these game with great colleagues. Everything was made together and we are very proud of our result.
+This was my first teamproject which was made for a schoolcourse. It was a lot of fun to create these game with these great colleagues. [Garian Lima Simoés](https://garimann.com/Home/), [Ramesh Bettge](https://rameshbettge.github.io/), [Nico Prüß](https://www.linkedin.com/in/nico-pr%C3%BC%C3%9F-14225a162/?originalSubdomain=de). Everything was made together and we are very proud of our result.
 <li><a href="https://github.com/RameshBettge/VR_Pirates">Project on GitHub</a></li><br/>
 
 ### Router
