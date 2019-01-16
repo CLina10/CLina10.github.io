@@ -9,7 +9,7 @@ Currently I'm studying 3D-Game Design at the GPB College in Berlin, Germany. My 
 
 ## Projects
 This is a list of my projects.
-Every Project from me can be played online and you can go to the github project, just click on the links.
+You can click on the links to get the project on github and to see the documents.
 
 ### Rip the Ribs
 <a href="https://ibb.co/ypSdxFX"><img src="https://i.ibb.co/8bcNQg0/Cover.jpg" alt="Cover" border="0"></a><br/>
