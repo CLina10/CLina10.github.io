@@ -28,7 +28,7 @@ This is a prototype for my first twin-stick-shooter. I wanted to show the confli
 <a href="https://ibb.co/28T8Pc2"><img src="https://i.ibb.co/k3t30qn/Game.jpg" alt="Game" border="0"></a><br/>
 Cam is a little prototype-game which I have made in a course of my programming classes. It was my first try on a game and I hope you have fun playing it.
 <li><a href="https://github.com/CLina10/Cam">Project on GitHub</a></li>
-<li><a href="https://www.docdroid.net/IIaJ0GQ/highconceptdocumentcam.pdf">Highconcept document</a></li><br/>
+<li><a href="https://www.docdroid.net/wmSOkka/highconceptdocumentcam.pdf">Highconcept document</a></li><br/>
 
 ### Flipper
 <a href="https://ibb.co/r5TXzQk"><img src="https://i.ibb.co/mh1P2RJ/start-Picture.jpg" alt="start-Picture" border="0"></a><br/>
