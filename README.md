@@ -3,8 +3,8 @@
 </head>
 
 ## About me
-I'm a 20 years old gamedesign/programming student who enjoys to play and create different games. My complete life resolve around games, from playing to creating and also writing.  
-I hope that people enjoy my work and that I can work with a great team to entertain hardcore gamer and occasion gamer with my projects.  
+I'm a 20 years old gamedesign/programming student who enjoys to play and create different games. My complete life resolve around games and stories, from playing to creating and also writing.  
+I hope that people enjoy my work and that I can work with a great team to entertain hardcore gamer and occasion gamer with my projects and ideas.  
 Currently I'm studying 3D-Game Design at the GPB College in Berlin, Germany. My specialization lies in gamedesign and programming, where I really enjoy to create new stories and games.
 
 ## Projects
@@ -34,6 +34,9 @@ Cam is a little prototype-game which I have made in a course of my programming c
 <a href="https://ibb.co/r5TXzQk"><img src="https://i.ibb.co/mh1P2RJ/start-Picture.jpg" alt="start-Picture" border="0"></a><br/>
 Just a little something which I made for fun. Please remember that this is just a prototype.
 <li><a href="https://github.com/CLina10/Flipper">Project on GitHub</a></li><br/>
+
+## Other Project Ideas
+<li><a href="">Unnamed Racing Game</a></li>
 
 ## Contact
 You would like to work or chat with me about games, projects or just for fun?  
