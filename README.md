@@ -36,7 +36,9 @@ Just a little something which I made for fun. Please remember that this is just 
 <li><a href="https://github.com/CLina10/Flipper">Project on GitHub</a></li><br/>
 
 ## Other Project Ideas
-<li><a href="">Unnamed Racing Game</a></li>
+Some ideas I have for games and there plots.
+<li><a href="https://www.docdroid.net/fXBN0i3/highconceptdocumentunnamedracinggame.pdf">Unnamed Racing Game Highconcept document</a></li>
+<li><a href="https://www.docdroid.net/5J4pjYw/gamedesigndocumentunnamedracinggame.pdf">Unnamed Racing Game Gamedesign document</a></li><br/>
 
 ## Contact
 You would like to work or chat with me about games, projects or just for fun?  
