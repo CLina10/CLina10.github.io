@@ -36,9 +36,12 @@ Just a little something which I made for fun. Please remember that this is just 
 <li><a href="https://github.com/CLina10/Flipper">Project on GitHub</a></li><br/>
 
 ## Other Project Ideas
-Some ideas I have for games and there plots.
-<li><a href="https://www.docdroid.net/fXBN0i3/highconceptdocumentunnamedracinggame.pdf">Unnamed Racing Game Highconcept document</a></li>
-<li><a href="https://www.docdroid.net/5J4pjYw/gamedesigndocumentunnamedracinggame.pdf">Unnamed Racing Game Gamedesign document</a></li><br/>
+Some ideas I have for games and their plots.
+
+### Unnamed Racing Game
+In the universe exists a powerful force called fuelence, but because it’s so powerful the usage of these fuelence is only allowed under certain circumstances. One of them is the interdimensional racing tournament (IRT). The IRT is hold every century and the only opportunity to compete against each other. The winner gets the desirable galaxy trophy and the title of universal-racing-champion.
+<li><a href="https://www.docdroid.net/fXBN0i3/highconceptdocumentunnamedracinggame.pdf">Highconcept document</a></li>
+<li><a href="https://www.docdroid.net/5J4pjYw/gamedesigndocumentunnamedracinggame.pdf">Gamedesign document</a></li><br/>
 
 ## Contact
 You would like to work or chat with me about games, projects or just for fun?  
