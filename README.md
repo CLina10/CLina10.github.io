@@ -11,6 +11,11 @@ Currently I'm studying 3D-Game Design at the GPB College in Berlin, Germany. My 
 This is a list of my projects.
 You can click on the links to get the project on github and to see the documents.
 
+### Unnamed Racing Game
+In the universe exists a powerful force called fuelence, but because it’s so powerful the usage of these fuelence is only allowed under certain circumstances. One of them is the interdimensional racing tournament (IRT). The IRT is hold every century and the only opportunity to compete against each other. The winner gets the desirable galaxy trophy and the title of universal-racing-champion.
+<li><a href="https://www.docdroid.net/fXBN0i3/highconceptdocumentunnamedracinggame.pdf">Highconcept document</a></li>
+<li><a href="https://www.docdroid.net/5J4pjYw/gamedesigndocumentunnamedracinggame.pdf">Gamedesign document</a></li><br/>
+
 ### Rip the Ribs
 <a href="https://ibb.co/ypSdxFX"><img src="https://i.ibb.co/8bcNQg0/Cover.jpg" alt="Cover" border="0"></a><br/>
 This was my first teamproject which was made for a schoolcourse. It was a lot of fun to create these game with these great colleagues. [Garian Lima Simoés](https://garimann.com/Home/), [Ramesh Bettge](https://rameshbettge.github.io/), [Nico Prüß](https://www.linkedin.com/in/nico-pr%C3%BC%C3%9F-14225a162/?originalSubdomain=de). Everything was made together and we are very proud of our result.
@@ -34,14 +39,6 @@ Cam is a little prototype-game which I have made in a course of my programming c
 <a href="https://ibb.co/r5TXzQk"><img src="https://i.ibb.co/mh1P2RJ/start-Picture.jpg" alt="start-Picture" border="0"></a><br/>
 Just a little something which I made for fun. Please remember that this is just a prototype.
 <li><a href="https://github.com/CLina10/Flipper">Project on GitHub</a></li><br/>
-
-## Other Project Ideas
-Some ideas I have for games and their plots.
-
-### Unnamed Racing Game
-In the universe exists a powerful force called fuelence, but because it’s so powerful the usage of these fuelence is only allowed under certain circumstances. One of them is the interdimensional racing tournament (IRT). The IRT is hold every century and the only opportunity to compete against each other. The winner gets the desirable galaxy trophy and the title of universal-racing-champion.
-<li><a href="https://www.docdroid.net/fXBN0i3/highconceptdocumentunnamedracinggame.pdf">Highconcept document</a></li>
-<li><a href="https://www.docdroid.net/5J4pjYw/gamedesigndocumentunnamedracinggame.pdf">Gamedesign document</a></li><br/>
 
 ## Contact
 You would like to work or chat with me about games, projects or just for fun?  
