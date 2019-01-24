@@ -16,6 +16,9 @@ In the universe exists a powerful force called fuelence, but because it’s so p
 <li><a href="https://www.docdroid.net/fXBN0i3/highconceptdocumentunnamedracinggame.pdf">Highconcept document</a></li>
 <li><a href="https://www.docdroid.net/5J4pjYw/gamedesigndocumentunnamedracinggame.pdf">Gamedesign document</a></li><br/>
 
+### ACES
+"ACES" tells the story of the charming and cocky Detective Aaron Cole, who works with the baeutiful and intelligent Dr. Emily Stone. Together they solve crimes, complicated and sometimes strange and must cope with their repeatedly upcoming bickering and personal problems. Now Emily gets a strange message from her brother, who has disappeared since Highschool because he was blamed for murder. She wants to search for her brother and clear his name, there she will be supported by Cole to solve this murder.
+
 ### Rip the Ribs
 <a href="https://ibb.co/ypSdxFX"><img src="https://i.ibb.co/8bcNQg0/Cover.jpg" alt="Cover" border="0"></a><br/>
 This was my first teamproject which was made for a schoolcourse. It was a lot of fun to create these game with these great colleagues. [Garian Lima Simoés](https://garimann.com/Home/), [Ramesh Bettge](https://rameshbettge.github.io/), [Nico Prüß](https://www.linkedin.com/in/nico-pr%C3%BC%C3%9F-14225a162/?originalSubdomain=de). Everything was made together and we are very proud of our result.
