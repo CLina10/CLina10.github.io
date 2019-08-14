@@ -48,7 +48,7 @@ You would like to work or chat with me about games, projects or just for fun?
 Don't hesitate to contact.
 
 **email:celina.wuschko@gmail.com**  
-**phone:+49 160 8304312**  
+**phone:+49 170 8994834**  
 **adress:Landsberger Allee 99c 10407 Berlin**  
 <li><a href="https://github.com/CLina10">Github</a></li>
 <li><a href="https://www.linkedin.com/in/celina-wuschko-10aa3a162/">Linkedin</a></li>
