@@ -3,9 +3,9 @@
 </head>
 
 ## About me
-I'm a 21 years old gamedesigner/game tester who enjoys to play and create different games. My complete life resolve around games and stories, from playing to creating and also writing.  
+I'm a 21 years old game tester/gamedesigner who enjoys to play and create different games. My complete life resolve around games and stories, from playing to creating and also writing.  
 I hope that people enjoy my work and that I can work with a great team to entertain hardcore gamer and occasion gamer with my projects and ideas.  
-Currently I'm studying 3D-Game Design at the GPB College in Berlin, Germany. My specialization lies in gamedesign and programming, where I really enjoy to create new stories and games.
+My specialization lies in testing and gamedesign, where I really enjoy to create and improve new stories and games.
 
 ## Projects
 This is a list of my projects.
