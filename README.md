@@ -20,7 +20,7 @@ Here you can see a list with games and companies I supported and worked as a QA 
 
 ### Fightlings
 <a href="http://www.thoughtfish.de/fightlings/"><img src="http://www.thoughtfish.de/wp-content/uploads/revslider/fightlings/FL_logo_white_small_square.png" alt="Cover" border="0"></a><br/>
-"'Fightlings' by Thoughtfish is a collectible card game and AR mobile game that uses the whole world as the gameboard, combining real-world exploration and gathering with intense PVP battles. Go out, explore the world, and find souls and creatures hidden everywhere."
+" 'Fightlings' by Thoughtfish is a collectible card game and AR mobile game that uses the whole world as the gameboard, combining real-world exploration and gathering with intense PVP battles. Go out, explore the world, and find souls and creatures hidden everywhere."
 
 ## Projects
 This is a list of my projects I created during my studies.
