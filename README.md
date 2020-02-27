@@ -7,21 +7,6 @@ I'm a 21 years old game tester/gamedesigner who enjoys to play and create differ
 I hope that people enjoy my work and that I can work with a great team to entertain hardcore gamer and occasion gamer with my projects and ideas.  
 I studied game design and programming at the GPB college in Berlin, Germany and now my specialization lies in testing and gamedesign, where I really enjoy to create and improve new games and stories.
 
-## Games and companies where I worked
-Here you can see a list with games and companies I supported and worked as a QA Tester and Game Designer.
-
-### Idle Miner Tycon
-<a href="https://www.idleminertycoon.com/"><img src="https://www.idleminertycoon.com/wp-content/uploads/2018/06/imt-logo.png" alt="Cover" border="0"></a><br/>
-"Idle Miner Tycoon" is an idle mobile game, where you can through smart investments upgrade your workflow and become an industrial tycoon by hiring managers as well as make your miners work.
-
-### Farmstead
-<a href="https://www.farmstead-game.de/"><img src="http://www.thoughtfish.de/wp-content/uploads/revslider/farmstead/FS_prototype_logo_03.png" alt="Cover" border="0"></a><br/>
-"Farmstead" is the very first mobile free to play real-world farming game, where players build their farm in the real world. The crops which grow on the farm are depending on the real world terrain and can be sold in real world supermarkets and restaurants.
-
-### Fightlings
-<a href="http://www.thoughtfish.de/fightlings/"><img src="http://www.thoughtfish.de/wp-content/uploads/revslider/fightlings/FL_logo_white_small_square.png" alt="Cover" border="0"></a><br/>
-" 'Fightlings' by Thoughtfish is a collectible card game and AR mobile game that uses the whole world as the gameboard, combining real-world exploration and gathering with intense PVP battles. Go out, explore the world, and find souls and creatures hidden everywhere."
-
 ## Projects
 This is a list of my projects I created during my studies.
 You can click on the links to get the project on github and to see the documents.
