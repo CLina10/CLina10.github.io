@@ -7,7 +7,7 @@ I'm a 21 years old game tester/gamedesigner who enjoys to play and create differ
 I hope that people enjoy my work and that I can work with a great team to entertain hardcore gamer and occasion gamer with my projects and ideas.  
 I studied game design and programming at the GPB college in Berlin, Germany and now my specialization lies in testing and gamedesign, where I really enjoy to create and improve new games and stories.
 
-## Games and companies where I worked and supported
+## Games and companies where I worked
 Here you can see a list with games and companies I supported and worked as a QA Tester and Game Designer.
 
 ### Idle Miner Tycon
