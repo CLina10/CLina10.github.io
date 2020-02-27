@@ -12,7 +12,7 @@ Here you can see a list with games and companies I supported and worked as a QA 
 
 ### Idle Miner Tycon
 <a href="https://www.idleminertycoon.com/"><img src="https://www.idleminertycoon.com/wp-content/uploads/2018/06/imt-logo.png" alt="Cover" border="0"></a><br/>
-"Idle Miner Tycoon" is an idle mobile game, where you can through smart investments to upgrade your workflow by hiring managers and make your miners work and to become an industrial tycoon.
+"Idle Miner Tycoon" is an idle mobile game, where you can through smart investments upgrade your workflow and become an industrial tycoon by hiring managers as well as make your miners work.
 
 ### Farmstead
 <a href="https://www.farmstead-game.de/"><img src="http://www.thoughtfish.de/wp-content/uploads/revslider/farmstead/FS_prototype_logo_03.png" alt="Cover" border="0"></a><br/>
